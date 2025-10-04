@@ -11,3 +11,4 @@
 6. Buat file .env.example untuk contoh env variable
 7. Buat file index.js untuk menulis kode server
 8. Jalankan `node index.js` untuk test hasilnya
+9. Bismillah

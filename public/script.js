@@ -20,7 +20,7 @@ form.addEventListener('submit', async function (e) {
   const thinkingMessageElement = appendMessage('bot', 'Gemini is thinking...');
 
   try {
-    // Send the conversation history to the backend
+    // Send the conversation history to the back-end
     const response = await fetch('/chat', {
       method: 'POST',
       headers: {
